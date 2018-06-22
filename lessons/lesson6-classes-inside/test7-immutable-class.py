@@ -1,0 +1,2 @@
+class MetaClass:
+    pass

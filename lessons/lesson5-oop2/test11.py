@@ -1,0 +1,3 @@
+class Mall:
+    function
+
